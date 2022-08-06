@@ -117,7 +117,7 @@ smmap==4.0.0
 spacy==3.1.0
 spacy-legacy==3.0.8
 srsly==2.4.1
-streamlit==0.84.0
+streamlit==1.11.1
 tensorboard==1.15.0
 tensorboard-data-server==0.6.1
 tensorboard-plugin-wit==1.8.0
